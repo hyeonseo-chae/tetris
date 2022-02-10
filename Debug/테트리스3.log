@@ -1,0 +1,4 @@
+﻿  final22.c
+c:\users\administrator\source\repos\테트리스3\final22.c(242): warning C4477: 'scanf_s' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+  c:\users\administrator\source\repos\테트리스3\final22.c(242): note: 서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
+LINK : fatal error LNK1168: C:\Users\Administrator\source\repos\테트리스3\Debug\테트리스3.exe을(를) 쓰기용으로 열 수 없습니다.
